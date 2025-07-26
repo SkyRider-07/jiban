@@ -2,7 +2,7 @@ body{
     background-image: linear-gradient(180deg,red,yellow);
 }
 #hellodiv{
-    background-image: linear-gradient(green,blue);
+    background-image: linear-gradient(rgb(87, 146, 162),blue);
     border:2px solid burlywood;
     text-align: center;
 }
